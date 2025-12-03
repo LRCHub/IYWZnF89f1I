@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Z･刻をこえて(Long Version)",
+  "base_artist": "鮎川麻弥",
+  "createdAt": "2025-12-03T14:03:19.746516Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Z・刻をこえて",
+      "artist": "鮎川 麻弥",
+      "has_synced": false,
+      "path": "select/pl_01_Z・刻をこえて_鮎川_麻弥.txt"
+    }
+  ]
+}
